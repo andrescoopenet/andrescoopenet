@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-**andrescoopenet/andrescoopenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello!** I'm Andres Orlando, a humble software developer from Lujan - Buenos Aires - Argentina. 
 
-Here are some ideas to get you started:
+Here some things about me:
 
 - 🔭 I’m currently working on Coopenet Lujan (Cooperativa Electrica)
-- 🌱 I’m currently learning Kotlin, C# Javascript
+- 🌱 I’m currently learning Kotlin, C#, Javascript
 - 👯 I’m looking to collaborate on Open Source Project releated to networking administration
-
-- 💬 Ask me about Python & Networking
+- 😀 I'm a super fan of Python
 - 📫 How to reach me: orlandoa@cespll.com.ar / andres.orlando@coopenetlujan.com.ar
 
