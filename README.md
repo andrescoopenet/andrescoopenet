@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Andres Orlando, a humble software developer from Lujan - Buenos Aires - Argentina.**
+**I'm Andres Orlando, a software developer from Lujan - Buenos Aires - Argentina.**
 
 Here some things about me:
 
@@ -15,7 +15,7 @@ Here some things about me:
 
 ### Hola!👋
 
-**Mi nombre es Andres Orlando, un humilde programador de la ciudad de Lujan (Buenos Aires - Argentina)**
+**Mi nombre es Andres Orlando, un programador de la ciudad de Lujan (Buenos Aires - Argentina)**
 
 Algunas cosas sobre mi:
 
