@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 **I'm Andres Orlando, a software developer from Lujan - Buenos Aires - Argentina.**
 
