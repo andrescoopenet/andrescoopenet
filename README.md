@@ -8,4 +8,4 @@ Here some things about me:
 - 🌱 I’m currently learning Kotlin, C#, Javascript🤓
 - 👯 I’m looking to collaborate on Open Source Project releated to networking administration
 - 😀 I'm a super fan of Python🐍 and I like to automatize everything🤖
-- 📫 How to reach me: orlando.raul.andres@outlook.com / raulandresorlando@gmail.com📧
+- 📫 Find me @: orlando.raul.andres@outlook.com / raulandresorlando@gmail.com📧
